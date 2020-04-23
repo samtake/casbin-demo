@@ -1,0 +1,10 @@
+github.com/Knetic/govaluate v3.0.0+incompatible h1:7o6+MAPhYTCF0+fdvoz1xDedhRb4f6s9Tn1Tt7/WTEg=
+github.com/Knetic/govaluate v3.0.0+incompatible/go.mod h1:r7JcOSlj0wfOMncg0iLm8Leh48TZaKVeNIfJntJ2wa0=
+github.com/alexedwards/scs v0.1.1 h1:IzhEACjKQ7SAahLgu0KpukM7AdWkTeWo5xugNaJmyPo=
+github.com/alexedwards/scs v0.1.1/go.mod h1:JRIFiXthhMSivuGbxpzUa0/hT5rz2hpyw61Bmd+S1bg=
+github.com/casbin/casbin v1.3.0 h1:EQmPGgOo8/veRZbg+w2aspCFHducIoq6a4wEYRcD3RM=
+github.com/casbin/casbin v1.3.0/go.mod h1:c67qKN6Oum3UF5Q1+BByfFxkwKvhwW57ITjqwtzR1KE=
+github.com/patrickmn/go-cache v2.1.0+incompatible h1:HRMgzkcYKYpi3C8ajMPV8OFXaaRUnok+kx1WdO15EQc=
+github.com/patrickmn/go-cache v2.1.0+incompatible/go.mod h1:3Qf8kWWT7OJRJbdiICTKqZju1ZixQ/KpMGzzAfe6+WQ=
+github.com/zupzup/casbin-http-role-example v0.0.0-20180105112156-90e0d5af6869 h1:uiuDLyJkiVgZjbquZ70TOBsyNZR5yn0y2uyiaYjATrI=
+github.com/zupzup/casbin-http-role-example v0.0.0-20180105112156-90e0d5af6869/go.mod h1:S/JvXNleBMkCLvg9zjCcfCgNH72n7dj6l7CWCncs2Bo=
